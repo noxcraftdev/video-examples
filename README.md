@@ -11,4 +11,5 @@ Claude Code techniques that change how you work.
 |---------|-------|----------------|
 | [E0](wired/e0-this-video-made-itself/) | This Video Made Itself | Zero-cost video production pipeline (edge-tts + Pillow + MoviePy) |
 | [E1](wired/e1-pipeline-upgrade/) | I Rebuilt My Video Pipeline With Free AI | Kokoro + OpenVoice voice cloning, MusicGen background music |
-| [E2](wired/hidden-statusbar/) | Claude Code Has a Hidden Status Bar | 10-line Python statusline showing context %, cost, and model |
+| [E2](wired/e2-hidden-statusbar/) | Claude Code Has a Hidden Status Bar | 10-line Python statusline showing context %, cost, and model |
+| [E3](wired/e3-power-statusline/) | Power User Statusline | ~40-line statusline with ANSI color bar, cache hit rate, and rate limit countdown |

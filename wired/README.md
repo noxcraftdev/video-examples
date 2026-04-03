@@ -9,4 +9,5 @@ Hooks, skills, patterns, and automations -- each episode adds something to your 
 |---------|-------|--------|
 | E0 | This Video Made Itself | [e0-this-video-made-itself](e0-this-video-made-itself/) |
 | E1 | I Rebuilt My Video Pipeline With Free AI | [e1-pipeline-upgrade](e1-pipeline-upgrade/) |
-| E2 | Claude Code Has a Hidden Status Bar | [hidden-statusbar](hidden-statusbar/) |
+| E2 | Claude Code Has a Hidden Status Bar | [e2-hidden-statusbar](e2-hidden-statusbar/) |
+| E3 | Power User Statusline | [e3-power-statusline](e3-power-statusline/) |
