@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "/path/to/stop-verify.sh"
+      }
+    ]
+  }
+}
