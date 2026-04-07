@@ -1,0 +1,3 @@
+- [API conventions](memory/api_conventions.md) -- snake_case for all endpoints and response fields
+- [Test preferences](memory/test_preferences.md) -- real DB in integration tests, mocks only for external APIs
+- [Auth rewrite context](memory/project_auth_rewrite.md) -- compliance-driven, not tech debt
